@@ -1,8 +1,19 @@
 # David Brown III
 Contact Info: [fill in]
+***
 
 ### About Me 
-[Fill in Madlibs here]
+Hello! I am an experienced Data Analyst and Information Systems Specialist with over 4 years of proven expertise in data-driven decision-making and business intelligence.
+
+
+With skills in data visualization, statistical analysis, database management, and data storytelling, I can translate complex datasets into actionable insights and achieve strategic improvements in organizational performance. I am proficient at using Python for automation and data creation, SPSS for statistical modeling, Excel for dynamic reporting and data modeling, and Microsoft Access for building relational databases and executing unique queries.
+
+
+My detail-oriented skill set, commitment to accuracy and continuous learning, and passion for leveraging data to solve real-world problems position me as a valuable asset to any data-focused team. In my spare time, I like to explore and experience new things. 
+
+
+You can find me on [LinkedIn Hyperlink].
+***
 
 ### Education 
 [Fill in Education here]
@@ -14,11 +25,13 @@ Contact Info: [fill in]
  - Project 1 Summary
  - ![]()
  - Project 1 Report
+ 
 ***
 #### Project 2 Title
  - Project 2 Summary
  - [insert project 2 screenshot here]
  - Project 2 Report
+ 
 ***
 #### Project 3 Title
  - Project 3 Summary
