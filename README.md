@@ -1,7 +1,7 @@
 # David Brown III
 Contact Info: [fill in]
-***
 
+***
 ### About Me 
 Hello! I am an experienced Data Analyst and Information Systems Specialist with over 4 years of proven expertise in data-driven decision-making and business intelligence.
 
@@ -16,25 +16,26 @@ You can find me on [LinkedIn Hyperlink].
 ***
 
 ### Education 
-[Fill in Education here]
-
+I did my undergraduate at Loyola University Maryland where I earned a Bachelor of Business Administration (BBA) with a concentration in Information Systems and Data Analytics.
 ***
 ### Projects
 
 #### Project 1 Title
  - Project 1 Summary
- - ![JDoodle Python Code](Images /IMG_1968.jpg)
- - ![Python Code Results](Images /IMG_1969.jpg)
+ 
+ 
  - Project 1 Report
  
 ***
 #### Project 2 Title
  - Project 2 Summary
- - [insert project 2 screenshot here]
+ 
+
  - Project 2 Report
  
 ***
 #### Project 3 Title
  - Project 3 Summary
- - [insert project 3 screenshot here]
+ 
+
  - Project 3 Report
