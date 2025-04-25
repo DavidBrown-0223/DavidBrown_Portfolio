@@ -2,6 +2,7 @@
 Contact Info: [fill in]
 
 ***
+
 ### About Me 
 Hello! I am an experienced Data Analyst and Information Systems Specialist with over 4 years of proven expertise in data-driven decision-making and business intelligence.
 
@@ -13,20 +14,24 @@ My detail-oriented skill set, commitment to accuracy and continuous learning, an
 
 
 You can find me on [LinkedIn Hyperlink].
+
 ***
 
 ### Education 
 I did my undergraduate at Loyola University Maryland where I earned a Bachelor of Business Administration (BBA) with a concentration in Information Systems and Data Analytics.
+
 ***
+
 ### Projects
 
 #### Project 1 Title
  - Project 1 Summary
- 
+ ![Here is the Python code!]( )
  
  - Project 1 Report
  
 ***
+
 #### Project 2 Title
  - Project 2 Summary
  
@@ -34,6 +39,7 @@ I did my undergraduate at Loyola University Maryland where I earned a Bachelor o
  - Project 2 Report
  
 ***
+
 #### Project 3 Title
  - Project 3 Summary
  
