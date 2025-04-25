@@ -1,7 +1,9 @@
 ![logo](https://github.com/user-attachments/assets/7737c6dd-6128-4888-959b-11a2ab4276bb)
 
 # David Brown III
-Contact Info: [fill in]
+Contact Info: 
+Email: dabrown1@loyola.edu 
+Phone: 240-412-5980
 
 ***
 
