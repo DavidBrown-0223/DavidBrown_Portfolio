@@ -1,7 +1,8 @@
 ![logo](https://github.com/user-attachments/assets/7737c6dd-6128-4888-959b-11a2ab4276bb)
 
 # David Brown III
-![headshot](https://github.com/user-attachments/assets/a0223b14-d3e6-492d-bebe-2b6b26ab3303)
+![headshot](https://github.com/user-attachments/assets/a5a3dcdc-d81a-478e-a88f-e36f48259014)
+
 
 Contact Info: 
 Email: <dabrown1@loyola.edu>
