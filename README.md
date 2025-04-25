@@ -23,7 +23,8 @@ You can find me on [LinkedIn Hyperlink].
 
 #### Project 1 Title
  - Project 1 Summary
- - ![]()
+ - ![JDoodle Python Code](Images /IMG_1968.jpg)
+ - ![Python Code Results](Images /IMG_1969.jpg)
  - Project 1 Report
  
 ***
