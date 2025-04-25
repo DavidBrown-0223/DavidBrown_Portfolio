@@ -28,7 +28,7 @@ I did my undergraduate at Loyola University Maryland where I earned a Bachelor o
 
 ### Projects
 
-#### Project 1 Title
+#### Python Personality Test Project
 This Python project is an interactive personality test built using conditional logic, loops, and score tracking. Created through JDoodle, it helps users discover their personality type based on their quiz responses and score system!!
 
 ![PythonData](https://github.com/user-attachments/assets/6069a781-82cd-4d92-9558-c8248449e00a)
@@ -51,7 +51,7 @@ The major objective of the project was to create a personality evaluation progra
  
 ***
 
-#### Project 2 Title
+#### SPSS Cricket Chirp Analysis Project
 This SPSS project provided an in-depth analysis of the relation between temperature and cricket chirping rates using descriptive statistics alongside scatterplot visualization methods. From the findings, there is a strong positive correlation that is clearly evident, showing that with rising temperatures, the rates at which crickets chirp also tend to increase noticeably.
 
 ![SPSSDataOverview](https://github.com/user-attachments/assets/53daa619-055e-4563-87af-6877294e3e82)
@@ -74,7 +74,7 @@ The main goal of this research was to illustrate the strong relationship between
  
 ***
 
-#### Project 3 Title
+#### Microsoft Access Retail Database Project
 In this project, I used Microsoft Access as a tool to carefully create an extensive retail dataset and then develop a set of meaningful queries. Through this experience, my comprehension of key concepts pertaining to the management of databases, the complex process of creating queries, and the numerous ways in which one can successfully extract useful business information from available data greatly improved.
 
 ![AccessDataset](https://github.com/user-attachments/assets/32752a0b-cfd4-4976-aed1-31fe61767f25)
