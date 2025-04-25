@@ -26,8 +26,8 @@ I did my undergraduate at Loyola University Maryland where I earned a Bachelor o
 
 #### Project 1 Title
  - Project 1 Summary
- ![Python code!](Images/PythonCode.jpg)
- ![Final/Ran Python code](Images/PythonResults.jpg)
+ ![Python code!](/Images%20/Python%20Code.jpg)
+ ![Final/Ran Python code](/Images%20/Python%20Results.jpg)
  - Project 1 Report
  
 ***
