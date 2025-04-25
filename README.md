@@ -2,7 +2,7 @@
 
 # David Brown III
 Contact Info: 
-Email: dabrown1@loyola.edu 
+Email: <dabrown1@loyola.edu>
 Phone: 240-412-5980
 
 ***
