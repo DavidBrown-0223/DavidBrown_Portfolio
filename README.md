@@ -14,7 +14,7 @@ With skills in data visualization, statistical analysis, database management, an
 My detail-oriented skill set, commitment to accuracy and continuous learning, and passion for leveraging data to solve real-world problems position me as a valuable asset to any data-focused team. In my spare time, I like to explore and experience new things. 
 
 
-You can find me on [LinkedIn Hyperlink].
+You can find me here on [\[LinkedIn\]](https://www.linkedin.com/in/david-brown-iii-171273266/).
 
 ***
 
@@ -27,7 +27,7 @@ I did my undergraduate at Loyola University Maryland where I earned a Bachelor o
 
 #### Project 1 Title
  - Project 1 Summary
-![Here's my Python Code!](Images/PythonFinishedCode.jpg)
+
  - Project 1 Report
  
 ***
