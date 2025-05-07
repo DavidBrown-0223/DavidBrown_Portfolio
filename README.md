@@ -128,3 +128,56 @@ Determining who the primary defender was for each offensive player (especially w
 NFL Big Data Bowl starter notebooks and Kaggle forums
 Consulted with teammate Evan Alander for pair programming and idea refinement
 Referenced prior winning submissions and academic papers on football analytics to fine-tune EPA interpretations and visual storytelling strategies.
+
+***
+#### NBA Data Analysis Project
+This in-depth project explores important trends and insightful information on NBA performance over the period of almost two decades, from 2003 to 2022, based on a rich set of historical data. Through the use of R programming combined with cutting-edge data visualization methods, we managed to identify clear patterns that shed light on a number of aspects such as the impact of individual players, the dominant tendencies of teams, and the general development of game strategy across the league. The main goal of this project was to derive meaningful conclusions through visual storytelling, ultimately helping to place in context the dramatic changes and shifts that have occurred in the sport over the past two decades.
+
+![NBA R Visualizations jpg](https://github.com/user-attachments/assets/478ced5d-c707-42e5-8fa2-d1318f5fc07b)
+![NBA R Visualization 2 jpg ](https://github.com/user-attachments/assets/3082c93e-535e-4346-9b9a-eb607e7895a3)
+![NBA R Visualization 3 jpg](https://github.com/user-attachments/assets/fa3ae8a9-dbd5-4b9f-bf28-c80d2ad8c82f)
+![NBA R Visualization 4 jpg](https://github.com/user-attachments/assets/352a14bc-76b5-4680-8380-62a0deda31c7)
+
+- Initial Project Idea
+The project aimed to answer five key basketball questions by leveraging advanced data visualization and analytical techniques:
+
+- Underrated Scorers: Who had high-scoring seasons without earning MVP recognition?
+- Home-Court Advantage Trends: Has playing at home become less of an advantage over time?
+- Defensive Impact Players: Which players contributed heavily on defense without being stars?
+- Close Game Performance: Which teams won the most games decided by 5 points or fewer?
+- Three-Point Evolution: How has the NBA’s reliance on the 3-point shot changed since 2003?
+
+Each section focused on generating unique insights using R and ggplot2, emphasizing clarity, impact, and interpretability.
+
+- Tools I Used:
+
+RStudio with:
+- ggplot2, dplyr, scales, tidyverse
+
+NBA Dataset (2003–2022) including:
+- Game details
+- Team stats
+- Player-level data
+
+- R Markdown for integrating code, analysis, and visuals
+- Custom color palettes and labels for improved clarity
+
+- Challenges I Faced:
+Data Wrangling & Cleaning
+The raw data needed to undergo extensive preprocessing—team and game grouping, filtering of seasons, and table reshaping to enable valid summaries to be constructed. Minor inconsistencies across seasons were manually confirmed.
+
+Combining datasets
+Combining game logs, team information, and player performance data took careful effort to join on common keys (e.g., team codes, season IDs), and some datasets were not aligned to begin with.
+
+Selecting meaningful visualizations
+For each question, I had to take time to consider how to represent the insight most well (e.g., line graph vs. bar graph). Some of the graphs took some tinkering with coloring schemes, orientation (flipping coordinates around), and labeling to get it just right.
+
+Balancing Simplicity with Insight
+I aimed to ensure the visualizations would still be accessible to everyday fans but retain some level of analytical value. It was difficult to find a balance—remaining understandable without simplistically reducing the data.
+
+Other Resources:
+- Class tutorials and lecture notes
+- ggplot2 documentation and examples
+- Peer review and informal feedback from classmates
+- Online forums like Stack Overflow for debugging code issues
+- Sports media sites (e.g., Basketball Reference) to validate findings
