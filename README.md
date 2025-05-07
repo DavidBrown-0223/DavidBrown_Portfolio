@@ -97,40 +97,6 @@ Aside from the class textbook and the AI assistant, I did not have any direct wo
 The goal of the project was to efficiently create and maintain my own dataset and create useful queries such as ItemsOver50Bucks, ItemsAddedAfterFeb2025, and HighestReorderLevel. I achieved it and appreciated the ability of databases to extract useful knowledge. If I were to extend it, I would add item and customer purchase connections to better observe sales patterns, reordering patterns, or customer interests.
 
 ***
-### RStudio NFL 2024 Size Mismatches Project 
-This project investigates the impact of pre-snap mismatches on offensive performance in the NFL using player tracking data from the 2022–2023 season. Specifically, we focused on three mismatch types: speed, size, and positional matchups (e.g., wide receiver vs linebacker). By analyzing these mismatches and calculating the average Expected Points Added (EPA) for each scenario, our goal was to determine which mismatch yields the greatest offensive advantage. Using R for data processing and Tableau for visualization, we provide evidence-backed insights into how strategic mismatches can be leveraged to optimize play outcomes.
-
-![IMG_2157](https://github.com/user-attachments/assets/9d8ed293-d971-4e09-a903-74d4094fbe19)
-![IMG_2156](https://github.com/user-attachments/assets/00e1e524-c353-48e8-a8c2-43c059a40a24)
-![IMG_2155](https://github.com/user-attachments/assets/c67044dc-0d68-4de5-a3e7-b15394da996b)
-
-#### Initial Project Idea:
-Our project explores how different types of mismatches (speed, size, and positional) impact offensive success in the NFL. We aim to identify which mismatch types contribute the most to expected points added (EPA) by using player tracking data. The specific focus of this segment is on Size Mismatches, analyzing height and weight differences between offensive and defensive players at the moment of the snap and how those differences affect play outcomes.
-
-#### Tools I Used:
-NFL Big Data Bowl Tracking Data (2022–23)
-RStudio with packages such as:
-- tidyverse (data manipulation and visualization)
-- nflreadr (data loading)
-- ggplot2 (for visual plots)
-
-#### Challenges I Faced:
-
-- Complex Data Integration Across Multiple Datasets:
-One of the main challenges was combining different NFL datasets—specifically the tracking data, play-by-play data, and player metadata. These datasets each use different keys and formats (e.g., nflId, playId, gameId), which required careful joins and filtering. Mismatched or missing identifiers sometimes caused issues in aligning players to plays and matching them across data sources.
-- Defining “Size Mismatch” in a Meaningful, Data-Driven Way:
-Establishing a clear, statistical definition for a size mismatch was not straightforward. We had to test various height and weight differential thresholds (e.g., 2+ inches or 15+ lbs) to determine what truly constituted a mismatch with a measurable impact on play outcomes. We also debated whether to evaluate these mismatches on absolute differences or positional norms.
-- Missing or Noisy Tracking Data:
-Not every play in the tracking dataset was usable—some were missing data points or had inconsistencies in player movement. In some plays, players were not captured at the exact frame we needed (like the moment of the snap), or defenders were not clearly assigned. This added extra cleaning steps and affected the accuracy of player matchup assignments.
-Identifying Primary Defenders for Each Matchup:
-- Determining who the primary defender was for each offensive player (especially wide receivers) was one of the most time-consuming aspects. The dataset does not explicitly provide coverage matchups on every play, so we had to infer matchups based on proximity in the tracking data or use derived variables like pff_primaryDefensiveCoverageMatchupNflId. Even then, coverage assignments sometimes varied mid-play or were ambiguous, especially in zone coverages.
-
-#### Other Resources:
-NFL Big Data Bowl starter notebooks and Kaggle forums
-Consulted with teammate Evan Alander for pair programming and idea refinement
-Referenced prior winning submissions and academic papers on football analytics to fine-tune EPA interpretations and visual storytelling strategies.
-
-***
 ### NBA Data Analysis Project
 This in-depth project explores important trends and insightful information on NBA performance over the period of almost two decades, from 2003 to 2022, based on a rich set of historical data. Through the use of R programming combined with cutting-edge data visualization methods, we managed to identify clear patterns that shed light on a number of aspects such as the impact of individual players, the dominant tendencies of teams, and the general development of game strategy across the league. The main goal of this project was to derive meaningful conclusions through visual storytelling, ultimately helping to place in context the dramatic changes and shifts that have occurred in the sport over the past two decades.
 
@@ -183,6 +149,12 @@ I aimed to ensure the visualizations would still be accessible to everyday fans 
 - Peer review and informal feedback from classmates
 - Online forums like Stack Overflow for debugging code issues
 - Sports media sites (e.g., Basketball Reference) to validate findings
+
+#### Results:
+1. Underrated Scorers Over the Years: Players like Tracy McGrady (2003) and Bradley Beal (2021) posted elite scoring seasons (32.1 and 31.3 PPG respectively) but were overlooked for MVP awards. This suggests that team success and all-around performance often weigh heavier than raw scoring when it comes to MVP voting.
+2. Home-Court Advantage Trends: From 2003 to 2022, the home team win rate fluctuated between 53.7% and 61.4%. A sharp decline occurred during the 2020 and 2021 pandemic seasons, dropping below 55% due to the absence of fans and altered playing conditions. Home-court advantage rebounded in 2022 to 58.9%, showing how environmental factors affect performance.
+3. Teams with the Most Close-Game Wins: The Boston Celtics led all teams with 292 close-game wins, followed by the Dallas Mavericks (287) and Miami Heat (278). These results reflect strong late-game execution, but may also point to consistently tight contests rather than dominant play styles.
+4. Evolution of Three-Point Shooting: The average number of 3-point attempts per game more than doubled from 2003 to 2022, rising from around 15 attempts to over 34. This trend mirrors a league-wide shift toward analytics-driven offense and greater emphasis on perimeter scoring. A plateau in 2020–2022 suggests a potential strategic ceiling has been reached.
 
 ***
 #### NCAA 2025 Basketball Season Tableau Project 
