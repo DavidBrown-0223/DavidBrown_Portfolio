@@ -3,13 +3,13 @@
 # David Brown III
 ![profilepic](https://github.com/user-attachments/assets/8519fcb2-03d0-4fff-a3c4-79e29f935d4d)
 
-Contact Info: 
+# Contact Info: 
 Email: <dabrown1@loyola.edu>
 Phone: 240-412-5980
 
 ***
 
-### About Me 
+## About Me 
 Hello! I am an experienced Data Analyst and Information Systems Specialist with over 4 years of proven expertise in data-driven decision-making and business intelligence.
 
 
@@ -23,14 +23,14 @@ You can find me here on [\[LinkedIn\]](https://www.linkedin.com/in/david-brown-i
 
 ***
 
-### Education 
+## Education 
 I did my undergraduate at Loyola University Maryland where I earned a Bachelor of Business Administration (BBA) with a concentration in Information Systems and Data Analytics.
 
 ***
 
-### Projects
+## Projects
 
-#### Python Personality Test Project
+### Python Personality Test Project
 This Python project is an interactive personality test built using conditional logic, loops, and score tracking. Created through JDoodle, it helps users discover their personality type based on their quiz responses and score system!!
 
 ![PythonData](https://github.com/user-attachments/assets/6069a781-82cd-4d92-9558-c8248449e00a)
@@ -53,7 +53,7 @@ The major objective of the project was to create a personality evaluation progra
  
 ***
 
-#### SPSS Cricket Chirp Analysis Project
+### SPSS Cricket Chirp Analysis Project
 This SPSS project provided an in-depth analysis of the relation between temperature and cricket chirping rates using descriptive statistics alongside scatterplot visualization methods. From the findings, there is a strong positive correlation that is clearly evident, showing that with rising temperatures, the rates at which crickets chirp also tend to increase noticeably.
 
 ![SPSSDataOverview](https://github.com/user-attachments/assets/53daa619-055e-4563-87af-6877294e3e82)
@@ -76,7 +76,7 @@ The main goal of this research was to illustrate the strong relationship between
  
 ***
 
-#### Microsoft Access Retail Database Project
+### Microsoft Access Retail Database Project
 In this project, I used Microsoft Access as a tool to carefully create an extensive retail dataset and then develop a set of meaningful queries. Through this experience, my comprehension of key concepts pertaining to the management of databases, the complex process of creating queries, and the numerous ways in which one can successfully extract useful business information from available data greatly improved.
 
 ![AccessDataset](https://github.com/user-attachments/assets/32752a0b-cfd4-4976-aed1-31fe61767f25)
@@ -84,37 +84,37 @@ In this project, I used Microsoft Access as a tool to carefully create an extens
  #### Initial Project Idea:
 My goal was to utilize Microsoft Access and learn database management and design. My objective was to create my own data set and create significant queries that could uncover interesting interactions between customers and products in a retail shop. I sought to solve the problem of understanding the best ways to handle data and apply queries to answer such relevant business queries like costly products, newest products, or most reordered products.
 
-# Tools I Used:
+#### Tools I Used:
 My major resources were classroom lectures and videos, and also an AI assistant named ChatGPT who helped in debugging and the rectification of the errors that I encountered in writing and in implementing my queries.
 
-# Challenges I Faced:
+#### Challenges I Faced:
 One of the difficulties I experienced was actually attempting to discern how to ask helpful questions that not only functioned but also displayed the data appropriately and in its entirety to its best potential. Learning how to develop appropriate criteria and properly join tables was a learning experience, but one that I was able to navigate by doing and also through instruction in course material.
 
-# Other Resources:
+#### Other Resources:
 Aside from the class textbook and the AI assistant, I did not have any direct work with classmates. I did utilize Microsoft Access help files and tutorial sites' samples to learn more about query construction. 
 
-# Result:
+#### Result:
 The goal of the project was to efficiently create and maintain my own dataset and create useful queries such as ItemsOver50Bucks, ItemsAddedAfterFeb2025, and HighestReorderLevel. I achieved it and appreciated the ability of databases to extract useful knowledge. If I were to extend it, I would add item and customer purchase connections to better observe sales patterns, reordering patterns, or customer interests.
 
 ***
-#### RStudio NFL 2024 Size Mismatches Project 
+### RStudio NFL 2024 Size Mismatches Project 
 This project investigates the impact of pre-snap mismatches on offensive performance in the NFL using player tracking data from the 2022–2023 season. Specifically, we focused on three mismatch types: speed, size, and positional matchups (e.g., wide receiver vs linebacker). By analyzing these mismatches and calculating the average Expected Points Added (EPA) for each scenario, our goal was to determine which mismatch yields the greatest offensive advantage. Using R for data processing and Tableau for visualization, we provide evidence-backed insights into how strategic mismatches can be leveraged to optimize play outcomes.
 
 ![IMG_2157](https://github.com/user-attachments/assets/9d8ed293-d971-4e09-a903-74d4094fbe19)
 ![IMG_2156](https://github.com/user-attachments/assets/00e1e524-c353-48e8-a8c2-43c059a40a24)
 ![IMG_2155](https://github.com/user-attachments/assets/c67044dc-0d68-4de5-a3e7-b15394da996b)
 
-# Initial Project Idea:
+#### Initial Project Idea:
 Our project explores how different types of mismatches (speed, size, and positional) impact offensive success in the NFL. We aim to identify which mismatch types contribute the most to expected points added (EPA) by using player tracking data. The specific focus of this segment is on Size Mismatches, analyzing height and weight differences between offensive and defensive players at the moment of the snap and how those differences affect play outcomes.
 
-# Tools I Used:
+#### Tools I Used:
 NFL Big Data Bowl Tracking Data (2022–23)
 RStudio with packages such as:
 - tidyverse (data manipulation and visualization)
 - nflreadr (data loading)
 - ggplot2 (for visual plots)
 
-# Challenges I Faced:
+#### Challenges I Faced:
 
 - Complex Data Integration Across Multiple Datasets:
 One of the main challenges was combining different NFL datasets—specifically the tracking data, play-by-play data, and player metadata. These datasets each use different keys and formats (e.g., nflId, playId, gameId), which required careful joins and filtering. Mismatched or missing identifiers sometimes caused issues in aligning players to plays and matching them across data sources.
@@ -125,13 +125,13 @@ Not every play in the tracking dataset was usable—some were missing data point
 Identifying Primary Defenders for Each Matchup:
 - Determining who the primary defender was for each offensive player (especially wide receivers) was one of the most time-consuming aspects. The dataset does not explicitly provide coverage matchups on every play, so we had to infer matchups based on proximity in the tracking data or use derived variables like pff_primaryDefensiveCoverageMatchupNflId. Even then, coverage assignments sometimes varied mid-play or were ambiguous, especially in zone coverages.
 
-# Other Resources:
+#### Other Resources:
 NFL Big Data Bowl starter notebooks and Kaggle forums
 Consulted with teammate Evan Alander for pair programming and idea refinement
 Referenced prior winning submissions and academic papers on football analytics to fine-tune EPA interpretations and visual storytelling strategies.
 
 ***
-#### NBA Data Analysis Project
+### NBA Data Analysis Project
 This in-depth project explores important trends and insightful information on NBA performance over the period of almost two decades, from 2003 to 2022, based on a rich set of historical data. Through the use of R programming combined with cutting-edge data visualization methods, we managed to identify clear patterns that shed light on a number of aspects such as the impact of individual players, the dominant tendencies of teams, and the general development of game strategy across the league. The main goal of this project was to derive meaningful conclusions through visual storytelling, ultimately helping to place in context the dramatic changes and shifts that have occurred in the sport over the past two decades.
 
 ![NBA R Visualizations jpg](https://github.com/user-attachments/assets/478ced5d-c707-42e5-8fa2-d1318f5fc07b)
@@ -139,7 +139,7 @@ This in-depth project explores important trends and insightful information on NB
 ![NBA R Visualization 3 jpg](https://github.com/user-attachments/assets/fa3ae8a9-dbd5-4b9f-bf28-c80d2ad8c82f)
 ![NBA R Visualization 4 jpg](https://github.com/user-attachments/assets/352a14bc-76b5-4680-8380-62a0deda31c7)
 
-# Initial Project Idea
+#### Initial Project Idea
 The project aimed to answer five key basketball questions by leveraging advanced data visualization and analytical techniques:
 
 - Underrated Scorers: Who had high-scoring seasons without earning MVP recognition?
@@ -150,7 +150,7 @@ The project aimed to answer five key basketball questions by leveraging advanced
 
 Each section focused on generating unique insights using R and ggplot2, emphasizing clarity, impact, and interpretability.
 
-# Tools I Used:
+#### Tools I Used:
 
 RStudio with:
 - ggplot2, dplyr, scales, tidyverse
@@ -163,7 +163,7 @@ NBA Dataset (2003–2022) including:
 - R Markdown for integrating code, analysis, and visuals
 - Custom color palettes and labels for improved clarity
 
-# Challenges I Faced:
+#### Challenges I Faced:
 
 - Data Wrangling & Cleaning
 The raw data needed to undergo extensive preprocessing—team and game grouping, filtering of seasons, and table reshaping to enable valid summaries to be constructed. Minor inconsistencies across seasons were manually confirmed.
@@ -177,7 +177,7 @@ For each question, I had to take time to consider how to represent the insight m
 Balancing Simplicity with Insight
 I aimed to ensure the visualizations would still be accessible to everyday fans but retain some level of analytical value. It was difficult to find a balance—remaining understandable without simplistically reducing the data.
 
-# Other Resources:
+#### Other Resources:
 - Class tutorials and lecture notes
 - ggplot2 documentation and examples
 - Peer review and informal feedback from classmates
