@@ -157,4 +157,48 @@ I aimed to ensure the visualizations would still be accessible to everyday fans 
 4. Evolution of Three-Point Shooting: The average number of 3-point attempts per game more than doubled from 2003 to 2022, rising from around 15 attempts to over 34. This trend mirrors a league-wide shift toward analytics-driven offense and greater emphasis on perimeter scoring. A plateau in 2020–2022 suggests a potential strategic ceiling has been reached.
 
 ***
-#### NCAA 2025 Basketball Season Tableau Project 
+### 2025 NCAA Basketball Data Visualization Project 
+This report analyzes NCAA Division I basketball performance trends using both data science methodology and Tableau visualization. This report seeks to transcend the usual drivers of success in the NCAA Tournament — from tournament seed trends and conference strength to style of play and team efficiency statistics like tempo and turnover ratio — by using calculated measures like Power Score, Tournament Readiness, and Grit Index to deliver actionable insight into team success drivers without dependence on seed or reputation.
+
+![NCAA Tournament 1 jpg](https://github.com/user-attachments/assets/b8119bd3-37c1-4b49-8dee-322852819dfe)
+![NCAA 2025 2 jpg ](https://github.com/user-attachments/assets/90567f7e-e5c3-4dcc-a036-9057d57099df)
+
+#### Initial Project Idea: 
+The motivation behind this project was to uncover hidden patterns in NCAA basketball outcomes by focusing on:
+
+- The relationship between tournament seeding and number of wins
+- Conference-level performance comparisons
+- Measuring power rankings through a custom formula
+- Understanding efficiency through shot type breakdowns
+- Introducing new metrics like the Grit Index, Tempo, and Turnover Rate
+
+I aimed to identify underdog advantages, mid-major success stories, and which metrics best correlate with winning deep in March Madness.
+
+#### Tools I Used:
+- Tableau: For dashboard creation and visual storytelling
+- Excel/CSV datasets: Tournament results, seedings, win counts, and efficiency stats
+Custom Metrics:
+- Power Score = (Win % × 0.4) + (AdjO × 0.3) + (AdjD × 0.3)
+- Grit Index = Win total × Close Game Win %
+- Tournament Readiness Score = (Adjust Offensive Efficiency + Adjust Defensive Efficiency) + (Barthag * 100)
+
+####  Challenges I Faced: 
+- Metric Creation and Validation: Creating formulas like Power Score and Grit Index required multiple iterations to ensure they produced meaningful rankings. Balancing weights for offensive and defensive efficiency was especially difficult.
+- Data Consistency: Datasets varied in structure (team naming conventions, seed formats), so extensive cleaning and normalization were needed to merge everything accurately.
+- Visual Balance in Tableau: With so many charts (bar plots, scatterplots, heatmaps), it was challenging to maintain a readable and aesthetically balanced layout.
+Representing Mid-Majors Fairly: Ensuring that teams with fewer tournament appearances (but high success rates) were fairly represented against powerhouse programs.
+
+#### Other Resources: 
+- KenPom ratings and efficiency stats
+- NCAA official March Madness results and seed data
+- Tableau community forums and YouTube dashboard tutorials
+- Feedback from professors and classmates during peer reviews
+
+#### Results: 
+1. VCU, Drake, and St. John’s ranked highest in Tournament Readiness, showing that mid-major and non-blue-blood programs can be elite when given the chance.
+2. Top performing conferences included the Big Ten, SEC, and Big 12 in terms of cumulative Power Score — revealing the depth of talent across these leagues.
+3. The Shooting Breakdown Heatmap showed Alabama led in 2P% and maintained strong 3P%, indicating balanced and efficient offensive execution.
+4. The Grit Index revealed that high-performing teams weren’t just efficient — they were also strong in close games and resilient in tough matchups.
+5. Seeding vs Wins Analysis showed that while higher seeds generally win more, lower-seeded teams like Florida Gulf Coast (15) and Loyola Chicago (11) still make deep runs, proving that seeding isn’t everything.
+6. Fast Tempo and High Turnover Rates: Teams like Alabama A&M and Longwood were fast-paced but often struggled with ball control — showing the double-edged sword of aggressive play styles.
+
