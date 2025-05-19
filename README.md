@@ -24,7 +24,7 @@ You can find me here on [\[LinkedIn\]](https://www.linkedin.com/in/david-brown-i
 ***
 
 ## Education 
-I did my undergraduate at Loyola University Maryland where I earned a Bachelor of Business Administration (BBA) with a concentration in Information Systems and Data Analytics.
+I recieved my bachelors degree at Loyola University Maryland where I earned a Bachelor of Business Administration (BBA) with a concentration in Information Systems and Data Analytics.
 
 ***
 
